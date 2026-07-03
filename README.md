@@ -2,11 +2,6 @@
 Name: Duc Anh Le
 E-mail: le-duc-anh@web.de
 Matrikelnummer: 5513330
-<!--
-Diesen Block ans Ende der bestehenden README.md im Wurzelverzeichnis
-des Repositorys anhängen (Name/E-Mail/Matrikelnummer stehen dort
-bereits oben aus Hausübung 1).
--->
 
 ## Hausübung 2 – Dashboard und Wetter-API
 
