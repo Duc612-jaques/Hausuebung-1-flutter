@@ -19,9 +19,9 @@ class TodoCard extends StatefulWidget {
 
 class _TodoCardState extends State<TodoCard> {
   final List<TodoItem> _tasks = [
-    TodoItem(title: 'Hausübung 2 abgeben'),
+    TodoItem(title: 'Hausübung 2 abgeben', done: true),
     TodoItem(title: 'Wetter-API testen', done: true),
-    TodoItem(title: 'README aktualisieren'),
+    TodoItem(title: 'README aktualisieren', done: true),
     TodoItem(title: 'Für Klausur lernen'),
   ];
 
